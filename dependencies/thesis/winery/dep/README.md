@@ -13,3 +13,5 @@ try it another time, lol
 
 # Rules
 Do not squash while doing a push. The meaning of a commit message gets lost.
+
+It does makes sense when pulling though.
