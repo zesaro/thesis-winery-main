@@ -9,4 +9,4 @@ try it another time, lol
 
 25.12.2018 - xmas commit
 
-26.12.2018 - some more commits! but without squash!!
+26.12.2018 - some more commits! but without squash!! and pull!! also no squash
