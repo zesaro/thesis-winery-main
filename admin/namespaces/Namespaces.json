@@ -2,7 +2,7 @@
    "localhost":{  
       "dependsOn":[  
          {  
-            "http://github.com/zesaro/thesis":"master"
+            "https://github.com/zesaro/thesis-winery-dep":"master"
          }
       ],
       "types":[  
