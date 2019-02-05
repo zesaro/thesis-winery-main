@@ -1,5 +1,5 @@
 {  
-   "localhost":{  
+   "https://github.com/zesaro/thesis-winery-main":{  
       "dependsOn":[  
          {  
             "https://github.com/zesaro/thesis-winery-dep":"master"
